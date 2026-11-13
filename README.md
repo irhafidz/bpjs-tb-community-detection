@@ -1,6 +1,6 @@
 ---
 title: "[Final revised paper title]"
-author: "Irmasari Hafidz*1, Irandi Putra Pratomo2, Ahmad Rusdiansyah3, Nur Aini Rakhmawati4 *corresponding author"
+author: "Irmasari Hafidz*, Irandi Putra Pratomo, Ahmad Rusdiansyah, Nur Aini Rakhmawati *corresponding author"
 date: "[dd/11/2026]"
 conference: "Submitted at the IEEE 2026 XXX"
 ---
