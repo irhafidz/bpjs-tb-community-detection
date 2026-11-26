@@ -1,5 +1,5 @@
 ---
-title: "[Final revised paper title]"
+title: "[Community Detection Algorithms on a Two-Relation Patient Network from Tuberculosis Claims of Indonesia's National Health Insurance]"
 author: "Irmasari Hafidz*, Irandi Putra Pratomo, Ahmad Rusdiansyah, Nur Aini Rakhmawati *corresponding author"
 date: "[dd/11/2026]"
 conference: "Submitted at the IEEE 2026 XXX"
@@ -7,7 +7,7 @@ conference: "Submitted at the IEEE 2026 XXX"
 
 # bpjs-tb-community-detection
 
-This repository accompanies the paper **"[Final revised paper title]"**, submitted to [IEEE conference name, year].
+This repository accompanies the paper **"[Community Detection Algorithms on a Two-Relation Patient Network from Tuberculosis Claims of Indonesia's National Health Insurance]"**, submitted to [IEEE conference name, year].
 
 The study builds patient–patient networks from the **BPJS Kesehatan 2024 tuberculosis (TB) sample** and compares four community detection algorithms on the same weighted network: **Louvain, Leiden, label propagation and Girvan–Newman**. Patients are linked by two relations: living in the same household, and visiting a primary-care clinic (FKTP) in the same district with the same diagnosis. The algorithms are compared on modularity, community size, stability across random seeds, agreement with each other, runtime and robustness.
 
